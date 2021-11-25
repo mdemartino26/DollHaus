@@ -926,3 +926,127 @@ System memory in use after: 133.3 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1977.
 Total: 3.722571 ms (FindLiveObjects: 0.305911 ms CreateObjectMapping: 0.059243 ms MarkObjects: 3.278226 ms  DeleteObjects: 0.077717 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1129.948938 seconds.
+  path: Assets/Scripts/WinScreen.cs
+  artifactKey: Guid(1d71d496b03454d68a63a9984bbde788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WinScreen.cs using Guid(1d71d496b03454d68a63a9984bbde788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58cf302b922f8181dc4c609d34f52e64') in 0.046146 seconds
+  Import took 0.224365 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004726 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1409 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.4 MB.
+System memory in use after: 160.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1981.
+Total: 2.770450 ms (FindLiveObjects: 0.300870 ms CreateObjectMapping: 0.056502 ms MarkObjects: 2.253456 ms  DeleteObjects: 0.158618 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.528 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1409 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.6 MB.
+System memory in use after: 160.7 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1984.
+Total: 2.235600 ms (FindLiveObjects: 0.250195 ms CreateObjectMapping: 0.050688 ms MarkObjects: 1.822045 ms  DeleteObjects: 0.111707 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.804092 seconds.
+  path: Assets/Scripts/WinScreen.cs
+  artifactKey: Guid(1d71d496b03454d68a63a9984bbde788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/WinScreen.cs using Guid(1d71d496b03454d68a63a9984bbde788) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '929300c2f5e1292f2fd23d283e673656') in 0.006909 seconds
+  Import took 0.010308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 77.330903 seconds.
+  path: Assets/Scripts/PuertaFinal.cs
+  artifactKey: Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PuertaFinal.cs using Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182f5cff481fc53956e10f0731a58bd8') in 0.003813 seconds
+  Import took 0.007891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.135349 seconds.
+  path: Assets/Scripts/PuertaFinal.cs
+  artifactKey: Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PuertaFinal.cs using Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182f5cff481fc53956e10f0731a58bd8') in 0.001268 seconds
+  Import took 0.006728 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004215 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.270 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1410 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 160.8 MB.
+System memory in use after: 160.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1988.
+Total: 2.067061 ms (FindLiveObjects: 0.178483 ms CreateObjectMapping: 0.049560 ms MarkObjects: 1.782216 ms  DeleteObjects: 0.055925 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.837 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1410 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 161.0 MB.
+System memory in use after: 161.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1991.
+Total: 2.457438 ms (FindLiveObjects: 0.262168 ms CreateObjectMapping: 0.054780 ms MarkObjects: 2.017561 ms  DeleteObjects: 0.121888 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.217467 seconds.
+  path: Assets/Scripts/PuertaFinal.cs
+  artifactKey: Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PuertaFinal.cs using Guid(a69d866473cdf4ea78fadb40f7b0b3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea413b56011901ac84703e1fa7302ed') in 0.012152 seconds
+  Import took 0.018750 seconds .
+
