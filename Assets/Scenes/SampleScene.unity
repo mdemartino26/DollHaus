@@ -1110,7 +1110,7 @@ MonoBehaviour:
   thumb: {fileID: 0}
   power: 0
   character: {fileID: 0}
-  openPosition: {x: -19.9, y: -3.127186, z: -69.11}
+  openPosition: {x: 0, y: 9, z: 1.81}
   open: 0
   speed: 1
   puertaChild: {fileID: 0}
@@ -1406,7 +1406,7 @@ MonoBehaviour:
   thumb: {fileID: 0}
   power: 0
   character: {fileID: 0}
-  openPosition: {x: -53.8, y: -3.127186, z: -70.7}
+  openPosition: {x: 0, y: 9, z: 1.81}
   open: 0
   speed: 1
   puertaChild: {fileID: 0}
@@ -1959,7 +1959,7 @@ MonoBehaviour:
   thumb: {fileID: 0}
   power: 0
   character: {fileID: 0}
-  openPosition: {x: -44.55477, y: -3.127186, z: -5}
+  openPosition: {x: 0, y: 9, z: 0}
   open: 0
   speed: 1
   puertaChild: {fileID: 0}
@@ -3459,7 +3459,7 @@ MonoBehaviour:
   thumb: {fileID: 0}
   power: 0
   character: {fileID: 0}
-  openPosition: {x: 0, y: 16.59, z: 0}
+  openPosition: {x: -36.25477, y: 9, z: -97.09676}
   open: 0
   speed: 2
   puertaChild: {fileID: 0}
@@ -4590,8 +4590,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1013716341}
-  - component: {fileID: 1013716343}
   - component: {fileID: 1013716342}
+  - component: {fileID: 1013716343}
   m_Layer: 0
   m_Name: Puerta6
   m_TagString: Untagged
@@ -4631,23 +4631,23 @@ MonoBehaviour:
   thumb: {fileID: 0}
   power: 0
   character: {fileID: 0}
-  openPosition: {x: -6.89, y: -3.127186, z: -81.88}
+  openPosition: {x: 0, y: 9, z: 0}
   open: 0
   speed: 1
   puertaChild: {fileID: 0}
---- !u!135 &1013716343
-SphereCollider:
+--- !u!65 &1013716343
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1013716340}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 4.69
-  m_Center: {x: 0, y: 0, z: -2.3}
+  m_Size: {x: 1.2, y: 3.86, z: 3.02}
+  m_Center: {x: 0, y: 0, z: -1.61}
 --- !u!1 &1014506348
 GameObject:
   m_ObjectHideFlags: 0
